@@ -27,6 +27,6 @@ An overview of
 
 ### TO DOs
 ----------------------------------
-* 1. Add user profile data for refinement of recommendation.
-* 2. Personalized service recommendations wherein service schemes and options can be provided based on the type of laptop bought by the user.
-* 3. The searched and purchased data to be updated on the server of DELL help in better market outreach, better product development demanding on the preferred ones by the consumer thereby helping in increasing the overall sales.
+* Add user profile data for refinement of recommendation.
+* Personalized service recommendations wherein service schemes and options can be provided based on the type of laptop bought by the user.
+* The searched and purchased data to be updated on the server of DELL help in better market outreach, better product development demanding on the preferred ones by the consumer thereby helping in increasing the overall sales.
