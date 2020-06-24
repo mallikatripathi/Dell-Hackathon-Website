@@ -20,7 +20,7 @@ An overview of
 
 ### Team Members
 ----------------------------------
-* Mallika Tripathi(mt901@snu.edu.in) - Front&Backend Integration, Laptop Accessories Recommendation
+* Mallika Tripathi(mt901@snu.edu.in / mallikatripathi1999@gmail.com) - Front&Backend Integration, Laptop Accessories Recommendation
 * Vanshika Bansal(vb391@snu.edu.in / vanshikabansal007@gmail.com) - Product Recommendation System, Back-End Analytics
 * Anusha Porwal(ap356@snu.edu.in) - Product Recommendation System
 * Divyangana Mittal(dm960@snu.edu.in) - Laptop Accessories Recommendation, Database Curation
