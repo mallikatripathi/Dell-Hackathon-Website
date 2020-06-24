@@ -15,7 +15,7 @@ related information which can help them improve the products as well as services
 
 An overview of 
 * The back-end code is written in python language on jupyter notebook, along with anvil python library.
-* Installation of jupyter, and nltk, fuzzywuzzy and python-levenshtein libraries, and anvil uplink.
+* Installation of jupyter, anvil uplink and requirements.txt.
 * Run the given html and css codes on anvil environment after creating an uplink between anvil and jupyter.
 
 ### Team Members
